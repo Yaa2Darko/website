@@ -1,3 +1,5 @@
 ---
-title: Test post
+title: Random Post
 ---
+
+To be continued :)
